@@ -27,6 +27,9 @@ benchmark dataset, i.e. Indian Pines, University of Pavia, and
 Salinas Scenes confirm the superiority of proposed SpectralNET
 with respect to the state-of-the-art methods.
 
+## Link to paper
+
+http://arxiv.org/abs/2104.00341
 
 ## Model
 
