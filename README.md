@@ -52,21 +52,16 @@ Fig: Proposed SpectralNet (Wavelet CNN) Model for hyperspectral image (HSI) clas
 Fig.4  The SA dataset classification result (Overall Accuracy 100%) of SpectralNet using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
 
 ## Cite the paper if you are using this work
+@article{chakraborty2021spectralnet,
 
-@misc{chakraborty2021spectralnet,
-
-      title={SpectralNET: Exploring Spatial-Spectral WaveletCNN for Hyperspectral Image Classification}, 
-      
-      author={Tanmay Chakraborty and Utkarsh Trehan},
-      
-      year={2021},
-      
-      eprint={2104.00341},
-      
-      archivePrefix={arXiv},
-      
-      primaryClass={eess.IV}
-      
+  title={SpectralNET: Exploring Spatial-Spectral WaveletCNN for Hyperspectral Image Classification},
+  
+  author={Chakraborty, Tanmay and Trehan, Utkarsh},
+  
+  journal={arXiv preprint arXiv:2104.00341},
+  
+  year={2021}
+  
 }
 
 ## Acknowledgement
