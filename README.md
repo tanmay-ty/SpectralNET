@@ -4,6 +4,8 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spectralnet-exploring-spatial-spectral/hyperspectral-image-classification-on-pavia)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-pavia?p=spectralnet-exploring-spatial-spectral)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spectralnet-exploring-spatial-spectral/hyperspectral-image-classification-on-salinas)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-salinas?p=spectralnet-exploring-spatial-spectral)
 
+Authors: Tanmay CHAKRABORTY & [Utkarsh TREHAN](https://github.com/UtkarshTrehan)
+
 ## Description
 Hyperspectral Image (HSI) classification using Convolutional
 Neural Networks (CNN) is widely found in the current
